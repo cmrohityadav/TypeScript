@@ -6,3 +6,4 @@ const userid:string ="ROHIT";
 const exchangeName:string="MSEI";
 
 console.log(welcomeExchange(userid,exchangeName));
+
